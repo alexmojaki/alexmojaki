@@ -8,30 +8,32 @@ I'm an expert at extracting obscure but useful information from Python:
 
 - [`birdseye`](https://birdseye.readthedocs.io/en/latest/) (![1.4k stars](https://img.shields.io/github/stars/alexmojaki/birdseye?label=%E2%AD%90&style=plastic)) is a unique and powerful debugger that lets you see the value of every individual expression:
 
-  ![birdseye demo](https://i.imgur.com/rtZEhHb.gif)
+  <img src="https://i.imgur.com/rtZEhHb.gif" width="64px" alt="birdseye demo"/>
+
+  *(Click thumbnails to expand them)*
 
 - [`snoop`](https://github.com/alexmojaki/snoop) (![462 stars](https://img.shields.io/github/stars/alexmojaki/snoop?label=%E2%AD%90&style=plastic)) is a simple convenient debugger that logs everything a function is doing:
 
-  ![snoop demo](https://i.imgur.com/aBVXFSQ.png)
+  <img src="https://i.imgur.com/Enu7k0h.png" width="64px" alt="snoop demo"/>
 
   It's based on [cool-RR/PySnooper](https://github.com/cool-RR/PySnooper) (![14.2k stars](https://img.shields.io/github/stars/cool-RR/PySnooper?label=%E2%AD%90&style=plastic)) for which [I made many major contributions](https://github.com/cool-RR/PySnooper/pulls?q=author%3Aalexmojaki+is%3Amerged) and am a collaborator.
 
 - [`heartrate`](https://github.com/alexmojaki/heartrate) (![1.1k stars](https://img.shields.io/github/stars/alexmojaki/heartrate?label=%E2%AD%90&style=plastic)) visualises execution in real time:
 
-  ![heartrate demo](https://media.giphy.com/media/H7wUw65MLvHLoX4sMW/giphy.gif)
+  <img src="https://media.giphy.com/media/H7wUw65MLvHLoX4sMW/giphy.gif" width="64px" alt="heartrate demo"/>
 
-  ![heartrate stacktrace demo](https://media.giphy.com/media/VIQqY8yyjYkhNfwF29/giphy.gif)
+  <img src="https://media.giphy.com/media/VIQqY8yyjYkhNfwF29/giphy.gif" width="64px" alt="heartrate stacktrace demo"/>
 
 **Tracebacks**
 
 - [`stack_data`](https://github.com/alexmojaki/stack_data) extracts data from stack frames and tracebacks, particularly to display more useful tracebacks than the default.
 - I used `stack_data` to [overhaul tracebacks in **IPython**](https://github.com/ipython/ipython/pull/11886), adding several fixes and enhancements. In particular `stack_data` uses [`executing`](https://github.com/alexmojaki/executing) (discussed below) to highlight the precise operation which failed:
 
-  ![ipython traceback with highlighted operation demo](https://user-images.githubusercontent.com/3627481/75476425-3e6b9280-59a3-11ea-9b6c-b9e099475a45.png)
+  <img src="https://user-images.githubusercontent.com/3627481/75476425-3e6b9280-59a3-11ea-9b6c-b9e099475a45.png" width="64px" alt="ipython traceback with highlighted operation demo"/>
 
 - `stack_data` is also used to show excellent beginner-friendly tracebacks in [futurecoder](https://futurecoder.io/):
 
-  ![futurecoder traceback](https://raw.githubusercontent.com/alexmojaki/futurecoder/master/images/traceback.png)
+  <img src="https://raw.githubusercontent.com/alexmojaki/futurecoder/master/images/traceback.png" width="64px" alt="futurecoder traceback"/>
 
 - I added an [integration for the **Sentry** Python client](https://docs.sentry.io/platforms/python/configuration/integrations/pure_eval/) to provide more information in tracebacks in error reports. It uses my library [`pure_eval`](https://github.com/alexmojaki/pure_eval), which evaluates simple expressions such as attributes while guaranteeing that no potentially problematic code is executed. `pure_eval` is also used by `stack_data`.
 
