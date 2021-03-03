@@ -11,7 +11,7 @@ I'm an expert at extracting obscure but useful information from Python:
 
   <img src="https://i.imgur.com/rtZEhHb.gif" width="64px" alt="birdseye demo"/>
 
-  *(Click thumbnails to expand them)*
+  <sub>*(Click thumbnails to expand them)*</sub>
 
 - [![462 stars](https://img.shields.io/github/stars/alexmojaki/snoop?label=%E2%AD%90&style=plastic) `snoop`](https://github.com/alexmojaki/snoop) is a simple convenient debugger that logs everything a function is doing:
 
@@ -76,6 +76,8 @@ I'm an expert at extracting obscure but useful information from Python:
 
 </details>
 
+<sub>*(Click title text \[not icons\] to expand)*</sub>
+
 ----
 
 <p align="center">
@@ -95,4 +97,4 @@ I'm an expert at extracting obscure but useful information from Python:
 <a href="https://www.linkedin.com/in/alex-hall-8532079a/"><img src="images/icons8-linkedin-50.png" width="24" alt="linkedin"/></a> <a href="mailto:alex.mojaki@gmail.com"><img src="images/icons8-gmail-50.png" width="24" alt="email"/></a> <a href="https://opencollective.com/futurecoder"><img src="images/open-collective.svg" width="24" alt="opencollective"/></a>
 </p>
 
-*(Most logos from [icons8](https://icons8.com/), see full credits [here](https://github.com/alexmojaki/alexmojaki/tree/master/images))*
+<sub>*(Most logos from [icons8](https://icons8.com/), see full credits [here](https://github.com/alexmojaki/alexmojaki/tree/master/images))*</sub>
