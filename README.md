@@ -5,7 +5,7 @@ My main project is [**futurecoder**](https://futurecoder.io/), a platform for se
 I'm an expert at extracting obscure but useful information from Python:
 
 <details open>
-<summary><b>Debuggers:</b></summary>
+<summary><b>:bug: Debuggers:</b></summary>
   
 - [`birdseye`](https://birdseye.readthedocs.io/en/latest/) (![1.4k stars](https://img.shields.io/github/stars/alexmojaki/birdseye?label=%E2%AD%90&style=plastic)) is a unique and powerful debugger that lets you see the value of every individual expression:
 
@@ -28,7 +28,7 @@ I'm an expert at extracting obscure but useful information from Python:
 </details>
 
 <details>
-<summary><b>Tracebacks:</b></summary>
+<summary><b>:warning: Tracebacks:</b></summary>
 
 - [`stack_data`](https://github.com/alexmojaki/stack_data) extracts data from stack frames and tracebacks, particularly to display more useful tracebacks than the default.
 - I used `stack_data` to [overhaul tracebacks in **IPython**](https://github.com/ipython/ipython/pull/11886), adding several fixes and enhancements. In particular `stack_data` uses [`executing`](https://github.com/alexmojaki/executing) (discussed below) to highlight the precise operation which failed:
@@ -44,7 +44,7 @@ I'm an expert at extracting obscure but useful information from Python:
 </details>
 
 <details>
-<summary><b>Magic:</b></summary>
+<summary><b>:sparkles: Magic:</b></summary>
 
 - [`executing`](https://github.com/alexmojaki/executing) (![68 stars](https://img.shields.io/github/stars/alexmojaki/executing?label=%E2%AD%90&style=plastic)) can find the exact operation being executed by a frame. This is the only library that allows doing this reliably as it is a very hard problem. Many others have tried and failed.
 - I used `executing` to overhaul [gruns/icecream](https://github.com/gruns/icecream/pull/33) (![2.3k stars](https://img.shields.io/github/stars/gruns/icecream?label=%E2%AD%90&style=plastic)) and [pwwang/python-varname](https://github.com/pwwang/python-varname/issues/3#issuecomment-616206560) (![81 stars](https://img.shields.io/github/stars/pwwang/python-varname?label=%E2%AD%90&style=plastic)), fixing several issues in the process. Both authors made me collaborators, and I've provided plenty of help since.
