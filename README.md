@@ -31,7 +31,7 @@ I'm an expert at extracting obscure but useful information from Python:
 <summary><b>:warning: Tracebacks:</b></summary>
 
 - [`stack_data`](https://github.com/alexmojaki/stack_data) extracts data from stack frames and tracebacks, particularly to display more useful tracebacks than the default.
-- I used `stack_data` to [overhaul tracebacks in **IPython**](https://github.com/ipython/ipython/pull/11886), adding several fixes and enhancements. In particular `stack_data` uses [`executing`](https://github.com/alexmojaki/executing) (discussed below) to highlight the precise operation which failed:
+- I used `stack_data` to [overhaul tracebacks in **IPython**](https://github.com/ipython/ipython/pull/11886), adding several fixes and enhancements. In particular `stack_data` uses [`executing`](https://github.com/alexmojaki/executing) (see Magic section) to highlight the precise operation which failed:
 
   <img src="https://user-images.githubusercontent.com/3627481/75476425-3e6b9280-59a3-11ea-9b6c-b9e099475a45.png" width="64px" alt="ipython traceback with highlighted operation demo"/>
 
@@ -59,7 +59,12 @@ I'm an expert at extracting obscure but useful information from Python:
 - <img src="images/flask.png" width="24" alt="flas"/> <img src="images/file_type_swagger_icon_130134.svg" width="24" alt="swagger"/>[`instant_api`](https://github.com/alexmojaki/instant_api) (![103 stars](https://img.shields.io/github/stars/alexmojaki/instant_api?label=%E2%AD%90&style=plastic)) is more metaprogramming, but based on type hints. It lets you instantly create an HTTP API with automatic type conversions, JSON RPC, and a Swagger UI. No other library makes this so easy. Inspired by FastAPI.
 - <img src="images/icons8-java-48.png" width="24" alt="java"/> <img src="images/icons8-amazon-web-services-50.png" width="24" alt="aws"/>  <img src="images/icons8-amazon-s3-50.png" width="24" alt="s3"/> [`s3-stream-upload`](https://github.com/alexmojaki/s3-stream-upload) (![149 stars](https://img.shields.io/github/stars/alexmojaki/s3-stream-upload?label=%E2%AD%90&style=plastic)) lets you efficiently stream large amounts of data to AWS S3 in Java.
 - <img src="images/Ruby_logo.svg" width="24" alt="ruby"/> <img src="images/icons8-google-sketchup-50.png" width="24" alt="sketchup"/> [SunHours](http://sunhoursplugin.com/) is a SketchUp plugin written in Ruby used by architects around the world to analyse and visualise how much sunlight hits a surface.
+  
+  <img src="https://sunhoursplugin.com/img/6.png" width="64px" alt="SunHours screenshot"/>
+
 - <img src="images/icons8-kotlin-50.png" width="24" alt="kotlin"/> <img src="images/icons8-android-os-50.png" width="24" alt="android"/><img src="images/icons8-google-play-50.png" width="24" alt="google play store"/> [Quiggles](https://play.google.com/store/apps/details?id=com.alexmojaki.quiggles) is an Android app written in Kotlin that lets anyone draw beautiful animated patterns with ease.
+
+  <img src="https://i.imgur.com/wcmYlLu.png" width="64px" alt="Quiggles screenshot"/>
 
 </details>
 
