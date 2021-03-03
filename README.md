@@ -4,8 +4,9 @@ My main project is [**futurecoder**](https://futurecoder.io/), a platform for se
 
 I'm an expert at extracting obscure but useful information from Python:
 
-**Debuggers:**
-
+<details open>
+<summary><b>Debuggers:</b></summary>
+  
 - [`birdseye`](https://birdseye.readthedocs.io/en/latest/) (![1.4k stars](https://img.shields.io/github/stars/alexmojaki/birdseye?label=%E2%AD%90&style=plastic)) is a unique and powerful debugger that lets you see the value of every individual expression:
 
   <img src="https://i.imgur.com/rtZEhHb.gif" width="64px" alt="birdseye demo"/>
@@ -23,6 +24,8 @@ I'm an expert at extracting obscure but useful information from Python:
   <img src="https://media.giphy.com/media/H7wUw65MLvHLoX4sMW/giphy.gif" width="64px" alt="heartrate demo"/>
 
   <img src="https://media.giphy.com/media/VIQqY8yyjYkhNfwF29/giphy.gif" width="64px" alt="heartrate stacktrace demo"/>
+
+</details>
 
 <details>
 <summary><b>Tracebacks:</b></summary>
