@@ -60,4 +60,6 @@ I'm an expert at extracting obscure but useful information from Python:
 
 </details>
 
+----
+
 [![GitHub stats](https://github-readme-stats.vercel.app/api?username=alexmojaki&show_icons=True&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
