@@ -78,24 +78,24 @@ I'm an expert at extracting obscure but useful information from Python:
 
 ----
 
-<center>
+<p align="center">
 
 [![GitHub stats](https://github-readme-stats.vercel.app/api?username=alexmojaki&show_icons=True&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
-</center>
+</p>
 
 ----
 
-<center>
+<p align="center">
 
 <a href="https://stackoverflow.com/users/2482744/alex-hall"><img src="https://stackoverflow.com/users/flair/2482744.png?theme=dark" width="208" height="58" alt="profile for Alex Hall at Stack Overflow, Q&amp;A for professional and enthusiast programmers" title="profile for Alex Hall at Stack Overflow, Q&amp;A for professional and enthusiast programmers"></a>
 
-</center>
+</p>
 
-<center>
+<p align="center">
 
 <a href="https://www.linkedin.com/in/alex-hall-8532079a/"><img src="images/icons8-linkedin-50.png" width="24" alt="linkedin"/></a> <a href="mailto:alex.mojaki@gmail.com"><img src="images/icons8-gmail-50.png" width="24" alt="email"/></a> <a href="https://opencollective.com/futurecoder"><img src="images/open-collective.svg" width="24" alt="opencollective"/></a>
 
-</center>
+</p>
 
 *(Most logos from [icons8](https://icons8.com/), see full credits [here](https://github.com/alexmojaki/alexmojaki/tree/master/images))*
