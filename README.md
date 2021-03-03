@@ -79,7 +79,10 @@ I'm an expert at extracting obscure but useful information from Python:
 ----
 
 <p align="center">
-[![GitHub stats](https://github-readme-stats.vercel.app/api?username=alexmojaki&show_icons=True&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img src="https://github-readme-stats.vercel.app/api?username=alexmojaki&show_icons=True&theme=tokyonight"
+         alt="GitHub stats"/>
+  </a>
 </p>
 
 ----
