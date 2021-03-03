@@ -17,15 +17,15 @@ I'm an expert at extracting obscure but useful information from Python:
 
 - [![462 stars](https://img.shields.io/github/stars/alexmojaki/snoop?label=%E2%AD%90&style=plastic) `snoop`](https://github.com/alexmojaki/snoop) is a simple convenient debugger that logs everything a function is doing:
 
-  <img src="https://i.imgur.com/Enu7k0h.png" width="64px" alt="snoop demo"/>
+  <img src="https://i.imgur.com/Enu7k0h.png" width="96px" alt="snoop demo"/>
 
   It's based on [![14.2k stars](https://img.shields.io/github/stars/cool-RR/PySnooper?label=%E2%AD%90&style=plastic) `cool-RR/PySnooper`](https://github.com/cool-RR/PySnooper) for which [I made many major contributions](https://github.com/cool-RR/PySnooper/pulls?q=author%3Aalexmojaki+is%3Amerged) and am a collaborator.
 
 - [![1.1k stars](https://img.shields.io/github/stars/alexmojaki/heartrate?label=%E2%AD%90&style=plastic) `heartrate`](https://github.com/alexmojaki/heartrate) visualises execution in real time:
 
-  <img src="https://media.giphy.com/media/H7wUw65MLvHLoX4sMW/giphy.gif" width="64px" alt="heartrate demo"/>
+  <img src="https://media.giphy.com/media/H7wUw65MLvHLoX4sMW/giphy.gif" width="96px" alt="heartrate demo"/>
 
-  <img src="https://media.giphy.com/media/VIQqY8yyjYkhNfwF29/giphy.gif" width="64px" alt="heartrate stacktrace demo"/>
+  <img src="https://media.giphy.com/media/VIQqY8yyjYkhNfwF29/giphy.gif" width="96px" alt="heartrate stacktrace demo"/>
 
 </details>
 
@@ -35,11 +35,11 @@ I'm an expert at extracting obscure but useful information from Python:
 - [`stack_data`](https://github.com/alexmojaki/stack_data) extracts data from stack frames and tracebacks, particularly to display more useful tracebacks than the default.
 - I used `stack_data` to [overhaul tracebacks in **IPython**](https://github.com/ipython/ipython/pull/11886), adding several fixes and enhancements. In particular `stack_data` uses [`executing`](https://github.com/alexmojaki/executing) (see Magic section) to highlight the precise operation which failed:
 
-  <img src="https://user-images.githubusercontent.com/3627481/75476425-3e6b9280-59a3-11ea-9b6c-b9e099475a45.png" width="64px" alt="ipython traceback with highlighted operation demo"/>
+  <img src="https://user-images.githubusercontent.com/3627481/75476425-3e6b9280-59a3-11ea-9b6c-b9e099475a45.png" width="96px" alt="ipython traceback with highlighted operation demo"/>
 
 - `stack_data` is also used to show excellent beginner-friendly tracebacks in [futurecoder](https://futurecoder.io/):
 
-  <img src="https://raw.githubusercontent.com/alexmojaki/futurecoder/master/images/traceback.png" width="64px" alt="futurecoder traceback"/>
+  <img src="https://raw.githubusercontent.com/alexmojaki/futurecoder/master/images/traceback.png" width="96px" alt="futurecoder traceback"/>
 
 - I added an [integration for the **Sentry** Python client](https://docs.sentry.io/platforms/python/configuration/integrations/pure_eval/) to provide more information in tracebacks in error reports. It uses my library [`pure_eval`](https://github.com/alexmojaki/pure_eval), which evaluates simple expressions such as attributes while guaranteeing that no potentially problematic code is executed. `pure_eval` is also used by `stack_data`.
 
@@ -62,7 +62,7 @@ I'm an expert at extracting obscure but useful information from Python:
 - [![149 stars](https://img.shields.io/github/stars/alexmojaki/s3-stream-upload?label=%E2%AD%90&style=plastic) `s3-stream-upload`](https://github.com/alexmojaki/s3-stream-upload) lets you efficiently stream large amounts of data to AWS S3 in Java.
 - [SunHours](http://sunhoursplugin.com/) is a SketchUp plugin written in Ruby used by architects around the world to analyse and visualise how much sunlight hits a surface. ([repo](https://github.com/alexmojaki/sunhours))
   
-  <img src="https://sunhoursplugin.com/img/6.png" width="64px" alt="SunHours screenshot"/>
+  <img src="https://sunhoursplugin.com/img/6.png" width="96px" alt="SunHours screenshot"/>
 
 - [Quiggles](https://play.google.com/store/apps/details?id=com.alexmojaki.quiggles) is an Android app written in Kotlin that lets anyone draw beautiful animated patterns with ease. [<img src="images/icons8-play-button.svg" width="24" alt="play"/> Watch a quick demo (1:31)](https://www.youtube.com/embed/l4fGBsNi0IU?vq=hd1080). ([repo](https://github.com/alexmojaki/quiggles))
 
