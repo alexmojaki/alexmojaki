@@ -7,19 +7,19 @@ I'm an expert at extracting obscure but useful information from Python:
 <details open>
 <summary><b>:bug: Debuggers:</b></summary>
   
-- [`birdseye`](https://birdseye.readthedocs.io/en/latest/) (![1.4k stars](https://img.shields.io/github/stars/alexmojaki/birdseye?label=%E2%AD%90&style=plastic)) is a unique and powerful debugger that lets you see the value of every individual expression:
+- [![1.4k stars](https://img.shields.io/github/stars/alexmojaki/birdseye?label=%E2%AD%90&style=plastic) `birdseye`](https://birdseye.readthedocs.io/en/latest/) is a unique and powerful debugger that lets you see the value of every individual expression:
 
   <img src="https://i.imgur.com/rtZEhHb.gif" width="64px" alt="birdseye demo"/>
 
   *(Click thumbnails to expand them)*
 
-- [`snoop`](https://github.com/alexmojaki/snoop) (![462 stars](https://img.shields.io/github/stars/alexmojaki/snoop?label=%E2%AD%90&style=plastic)) is a simple convenient debugger that logs everything a function is doing:
+- [![462 stars](https://img.shields.io/github/stars/alexmojaki/snoop?label=%E2%AD%90&style=plastic) `snoop`](https://github.com/alexmojaki/snoop) is a simple convenient debugger that logs everything a function is doing:
 
   <img src="https://i.imgur.com/Enu7k0h.png" width="64px" alt="snoop demo"/>
 
-  It's based on [cool-RR/PySnooper](https://github.com/cool-RR/PySnooper) (![14.2k stars](https://img.shields.io/github/stars/cool-RR/PySnooper?label=%E2%AD%90&style=plastic)) for which [I made many major contributions](https://github.com/cool-RR/PySnooper/pulls?q=author%3Aalexmojaki+is%3Amerged) and am a collaborator.
+  It's based on [![14.2k stars](https://img.shields.io/github/stars/cool-RR/PySnooper?label=%E2%AD%90&style=plastic) `cool-RR/PySnooper`](https://github.com/cool-RR/PySnooper) for which [I made many major contributions](https://github.com/cool-RR/PySnooper/pulls?q=author%3Aalexmojaki+is%3Amerged) and am a collaborator.
 
-- [`heartrate`](https://github.com/alexmojaki/heartrate) (![1.1k stars](https://img.shields.io/github/stars/alexmojaki/heartrate?label=%E2%AD%90&style=plastic)) visualises execution in real time:
+- [![1.1k stars](https://img.shields.io/github/stars/alexmojaki/heartrate?label=%E2%AD%90&style=plastic) `heartrate`](https://github.com/alexmojaki/heartrate) visualises execution in real time:
 
   <img src="https://media.giphy.com/media/H7wUw65MLvHLoX4sMW/giphy.gif" width="64px" alt="heartrate demo"/>
 
@@ -46,23 +46,23 @@ I'm an expert at extracting obscure but useful information from Python:
 <details>
 <summary><b>:sparkles: Magic:</b></summary>
 
-- [`executing`](https://github.com/alexmojaki/executing) (![68 stars](https://img.shields.io/github/stars/alexmojaki/executing?label=%E2%AD%90&style=plastic)) can find the exact operation being executed by a frame. This is the only library that allows doing this reliably as it is a very hard problem. Many others have tried and failed.
-- I used `executing` to overhaul [gruns/icecream](https://github.com/gruns/icecream/pull/33) (![2.3k stars](https://img.shields.io/github/stars/gruns/icecream?label=%E2%AD%90&style=plastic)) and [pwwang/python-varname](https://github.com/pwwang/python-varname/issues/3#issuecomment-616206560) (![81 stars](https://img.shields.io/github/stars/pwwang/python-varname?label=%E2%AD%90&style=plastic)), fixing several issues in the process. Both authors made me collaborators, and I've provided plenty of help since.
-- [`sorcery`](https://github.com/alexmojaki/sorcery) (![285 stars](https://img.shields.io/github/stars/alexmojaki/sorcery?label=%E2%AD%90&style=plastic)) uses `executing` to provide several surprising magical functions.
+- [![68 stars](https://img.shields.io/github/stars/alexmojaki/executing?label=%E2%AD%90&style=plastic) `executing`](https://github.com/alexmojaki/executing) can find the exact operation being executed by a frame. This is the only library that allows doing this reliably as it is a very hard problem. Many others have tried and failed.
+- I used `executing` to overhaul [![2.3k stars](https://img.shields.io/github/stars/gruns/icecream?label=%E2%AD%90&style=plastic) `gruns/icecream`](https://github.com/gruns/icecream/pull/33) and [![81 stars](https://img.shields.io/github/stars/pwwang/python-varname?label=%E2%AD%90&style=plastic) `pwwang/python-varname`](https://github.com/pwwang/python-varname/issues/3#issuecomment-616206560), fixing several issues in the process. Both authors made me collaborators, and I've provided plenty of help since.
+- [![285 stars](https://img.shields.io/github/stars/alexmojaki/sorcery?label=%E2%AD%90&style=plastic) `sorcery`](https://github.com/alexmojaki/sorcery) uses `executing` to provide several surprising magical functions.
 
 </details>
 
 <details>
 <summary><b>Other notable work: <img src="images/icons8-java-48.png" width="24" alt="java"/> <img src="images/Ruby_logo.svg" width="24" alt="ruby"/> <img src="images/icons8-kotlin-50.png" width="24" alt="kotlin"/> <img src="images/icons8-android-os-50.png" width="24" alt="android"/> </b></summary>
 
-- I use [`gristlabs/asttokens`](https://github.com/gristlabs/asttokens) (![86 stars](https://img.shields.io/github/stars/gristlabs/asttokens?label=%E2%AD%90&style=plastic)) in *all* the projects mentioned above! I've made [many significant contributions](https://github.com/gristlabs/asttokens/pulls?q=is%3Amerged+author%3Aalexmojaki) to it.
-- <img src="images/flask.png" width="24" alt="flas"/> <img src="images/file_type_swagger_icon_130134.svg" width="24" alt="swagger"/>[`instant_api`](https://github.com/alexmojaki/instant_api) (![103 stars](https://img.shields.io/github/stars/alexmojaki/instant_api?label=%E2%AD%90&style=plastic)) is more metaprogramming, but based on type hints. It lets you instantly create an HTTP API with automatic type conversions, JSON RPC, and a Swagger UI. No other library makes this so easy. Inspired by FastAPI.
-- <img src="images/icons8-java-48.png" width="24" alt="java"/> <img src="images/icons8-amazon-web-services-50.png" width="24" alt="aws"/>  <img src="images/icons8-amazon-s3-50.png" width="24" alt="s3"/> [`s3-stream-upload`](https://github.com/alexmojaki/s3-stream-upload) (![149 stars](https://img.shields.io/github/stars/alexmojaki/s3-stream-upload?label=%E2%AD%90&style=plastic)) lets you efficiently stream large amounts of data to AWS S3 in Java.
-- <img src="images/Ruby_logo.svg" width="24" alt="ruby"/> <img src="images/icons8-google-sketchup-50.png" width="24" alt="sketchup"/> [SunHours](http://sunhoursplugin.com/) is a SketchUp plugin written in Ruby used by architects around the world to analyse and visualise how much sunlight hits a surface.
+- I use [![86 stars](https://img.shields.io/github/stars/gristlabs/asttokens?label=%E2%AD%90&style=plastic) `gristlabs/asttokens`](https://github.com/gristlabs/asttokens) in *all* the projects mentioned above! I've made [many significant contributions](https://github.com/gristlabs/asttokens/pulls?q=is%3Amerged+author%3Aalexmojaki) to it.
+- [<img src="images/flask.png" width="24" alt="flas"/> <img src="images/file_type_swagger_icon_130134.svg" width="24" alt="swagger"/> ![103 stars](https://img.shields.io/github/stars/alexmojaki/instant_api?label=%E2%AD%90&style=plastic) `instant_api`](https://github.com/alexmojaki/instant_api) is more metaprogramming, but based on type hints. It lets you instantly create an HTTP API with automatic type conversions, JSON RPC, and a Swagger UI. No other library makes this so easy. Inspired by FastAPI.
+- [<img src="images/icons8-java-48.png" width="24" alt="java"/> <img src="images/icons8-amazon-web-services-50.png" width="24" alt="aws"/>  <img src="images/icons8-amazon-s3-50.png" width="24" alt="s3"/> ![149 stars](https://img.shields.io/github/stars/alexmojaki/s3-stream-upload?label=%E2%AD%90&style=plastic) `s3-stream-upload`](https://github.com/alexmojaki/s3-stream-upload) lets you efficiently stream large amounts of data to AWS S3 in Java.
+- [<img src="images/Ruby_logo.svg" width="24" alt="ruby"/> <img src="images/icons8-google-sketchup-50.png" width="24" alt="sketchup"/> SunHours](http://sunhoursplugin.com/) is a SketchUp plugin written in Ruby used by architects around the world to analyse and visualise how much sunlight hits a surface.
   
   <img src="https://sunhoursplugin.com/img/6.png" width="64px" alt="SunHours screenshot"/>
 
-- <img src="images/icons8-kotlin-50.png" width="24" alt="kotlin"/> <img src="images/icons8-android-os-50.png" width="24" alt="android"/><img src="images/icons8-google-play-50.png" width="24" alt="google play store"/> [Quiggles](https://play.google.com/store/apps/details?id=com.alexmojaki.quiggles) is an Android app written in Kotlin that lets anyone draw beautiful animated patterns with ease.
+- [<img src="images/icons8-kotlin-50.png" width="24" alt="kotlin"/> <img src="images/icons8-android-os-50.png" width="24" alt="android"/><img src="images/icons8-google-play-50.png" width="24" alt="google play store"/> Quiggles](https://play.google.com/store/apps/details?id=com.alexmojaki.quiggles) is an Android app written in Kotlin that lets anyone draw beautiful animated patterns with ease.
 
   <img src="https://i.imgur.com/wcmYlLu.png" width="64px" alt="Quiggles screenshot"/>
 
