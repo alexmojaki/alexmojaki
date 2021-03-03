@@ -53,7 +53,7 @@ I'm an expert at extracting obscure but useful information from Python:
 </details>
 
 <details>
-<summary><b>Other notable work: <img src="images/icons8-java-48.png" alt="java"/> </b></summary>
+<summary><b>Other notable work: <img src="images/icons8-java-48.png" width="24" alt="java"/> <img src="images/Ruby_logo.svg" width="24" alt="ruby"/> <img src="images/icons8-kotlin-50.png" width="24" alt="kotlin"/> <img src="images/icons8-android-os-50.png" width="24" alt="android"/> </b></summary>
 
 - I use [`gristlabs/asttokens`](https://github.com/gristlabs/asttokens) (![86 stars](https://img.shields.io/github/stars/gristlabs/asttokens?label=%E2%AD%90&style=plastic)) in *all* the projects mentioned above! I've made [many significant contributions](https://github.com/gristlabs/asttokens/pulls?q=is%3Amerged+author%3Aalexmojaki) to it.
 - [`instant_api`](https://github.com/alexmojaki/instant_api) (![103 stars](https://img.shields.io/github/stars/alexmojaki/instant_api?label=%E2%AD%90&style=plastic)) is more metaprogramming, but based on type hints. It lets you instantly create an HTTP API with automatic type conversions, JSON RPC, and a Swagger UI. No other library makes this so easy.
