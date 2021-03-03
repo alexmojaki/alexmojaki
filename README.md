@@ -9,7 +9,9 @@ I'm an expert at extracting obscure but useful information from Python:
   
 - [![1.4k stars](https://img.shields.io/github/stars/alexmojaki/birdseye?label=%E2%AD%90&style=plastic) `birdseye`](https://birdseye.readthedocs.io/en/latest/) is a unique and powerful debugger that lets you see the value of every individual expression:
 
-  <img src="https://i.imgur.com/rtZEhHb.gif" width="64px" alt="birdseye demo"/>
+  <img src="https://i.imgur.com/rtZEhHb.gif" height="96px" alt="birdseye demo 1"/>
+
+  <img src="https://i.imgur.com/236Gj2E.gif" height="96px" alt="birdseye demo 2"/>
 
   <sub>*(Click thumbnails to expand them)*</sub>
 
