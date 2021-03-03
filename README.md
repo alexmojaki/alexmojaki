@@ -64,13 +64,13 @@ I'm an expert at extracting obscure but useful information from Python:
 
 - [<img src="images/icons8-kotlin-50.png" width="24" alt="kotlin"/> <img src="images/icons8-android-os-50.png" width="24" alt="android"/><img src="images/icons8-google-play-50.png" width="24" alt="google play store"/> Quiggles](https://play.google.com/store/apps/details?id=com.alexmojaki.quiggles) is an Android app written in Kotlin that lets anyone draw beautiful animated patterns with ease.
 
-  <a href="images/quiggles/medium/s1%202021-03-03T18_06_57.gif">
+  <a href="https://raw.githubusercontent.com/alexmojaki/alexmojaki/quiggles/images/quiggles/medium/s1%202021-03-03T18_06_57.gif">
   <img src="images/quiggles/thumbnails/s1%202021-03-03T18_06_57.gif" alt="Quiggles demo 1"/>
   </a>
-  <a href="images/quiggles/medium/hi%202021-03-03T18_05_00.gif">
+  <a href="https://raw.githubusercontent.com/alexmojaki/alexmojaki/quiggles/images/quiggles/medium/hi%202021-03-03T18_05_00.gif">
   <img src="images/quiggles/thumbnails/hi%202021-03-03T18_05_00.gif" alt="Quiggles demo 2"/>
   </a>
-  <a href="images/quiggles/medium/s2%202021-03-03T18_07_45.gif">
+  <a href="https://raw.githubusercontent.com/alexmojaki/alexmojaki/quiggles/images/quiggles/medium/s2%202021-03-03T18_07_45.gif">
   <img src="images/quiggles/thumbnails/s2%202021-03-03T18_07_45.gif" alt="Quiggles demo 3"/>
   </a>
 
