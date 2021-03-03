@@ -1,6 +1,6 @@
 I love Python, metaprogramming, and making programming easier.
 
-My main project is [**futurecoder**](https://futurecoder.io/), a platform for self-learning Python for beginners. It depends on a lot of my other work on GitHub, most of which is mentioned below. **I'm looking for contributors, partnerships, [funding](https://opencollective.com/futurecoder), and work in a similar space (see <a href="https://www.linkedin.com/in/alex-hall-8532079a/">LinkedIn <img src="images/icons8-linkedin-50.png" width="24" alt="linkedin"/></a>).**
+My main project is [**futurecoder**](https://futurecoder.io/), a platform for self-learning Python for beginners. It depends on a lot of my other work on GitHub, most of which is mentioned below. **I'm looking for contributors, partnerships, [funding](https://opencollective.com/futurecoder), and work in a similar space (see <a href="https://www.linkedin.com/in/alex-hall-8532079a/">LinkedIn</a>).**
 
 I'm an expert at extracting obscure but useful information from Python:
 
