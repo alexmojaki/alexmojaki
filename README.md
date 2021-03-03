@@ -55,7 +55,7 @@ I'm an expert at extracting obscure but useful information from Python:
 </details>
 
 <details>
-<summary><b><img src="images/icons8-java-48.png" width="24" alt="java"/> <img src="images/icons8-amazon-web-services-50.png" width="24" alt="aws"/> <img src="images/Ruby_logo.svg" width="24" alt="ruby"/> <img src="images/icons8-kotlin-50.png" width="24" alt="kotlin"/> <img src="images/icons8-android-os-50.png" width="24" alt="android"/> Other notable work: </b></summary>
+<summary><b><img src="images/icons8-java-48.png" width="24" alt="java"/> <img src="images/icons8-amazon-web-services-50.png" width="24" alt="aws"/> <img src="images/Ruby_logo.svg" width="24" alt="ruby"/> <img src="images/icons8-kotlin-50.png" width="24" alt="kotlin"/> <img src="images/icons8-android-os-50.png" width="24" alt="android"/> Other: </b></summary>
 
 - I use [![86 stars](https://img.shields.io/github/stars/gristlabs/asttokens?label=%E2%AD%90&style=plastic) `gristlabs/asttokens`](https://github.com/gristlabs/asttokens) in *all* the projects mentioned above! I've made [many significant contributions](https://github.com/gristlabs/asttokens/pulls?q=is%3Amerged+author%3Aalexmojaki) to it.
 - [`instant_api`](https://github.com/alexmojaki/instant_api) is more metaprogramming, but based on type hints. It lets you instantly create a Flask API with automatic type conversions, JSON RPC, and a Swagger UI. No other library makes this so convenient. Inspired by FastAPI.
