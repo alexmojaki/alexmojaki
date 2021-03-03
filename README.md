@@ -1,6 +1,6 @@
 I love Python, metaprogramming, and making programming easier.
 
-My main project is [**futurecoder**](https://futurecoder.io/), a platform for self-learning Python for beginners. It depends on a lot of my other work on GitHub, most of which is mentioned below. **I'm looking for contributors, partnerships, [funding](https://opencollective.com/futurecoder), and work in a similar space (see [LinkedIn](https://www.linkedin.com/in/alex-hall-8532079a/)).**
+My main project is [**futurecoder**](https://futurecoder.io/), a platform for self-learning Python for beginners. It depends on a lot of my other work on GitHub, most of which is mentioned below. **I'm looking for contributors, partnerships, [funding](https://opencollective.com/futurecoder), and work in a similar space (see <a href="https://www.linkedin.com/in/alex-hall-8532079a/">LinkedIn <img src="images/icons8-linkedin-50.png" width="24" alt="linkedin"/></a>).**
 
 I'm an expert at extracting obscure but useful information from Python:
 
@@ -66,3 +66,11 @@ I'm an expert at extracting obscure but useful information from Python:
 ----
 
 [![GitHub stats](https://github-readme-stats.vercel.app/api?username=alexmojaki&show_icons=True&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+
+----
+
+<a href="https://stackoverflow.com/users/2482744/alex-hall"><img src="https://stackoverflow.com/users/flair/2482744.png" width="208" height="58" alt="profile for Alex Hall at Stack Overflow, Q&amp;A for professional and enthusiast programmers" title="profile for Alex Hall at Stack Overflow, Q&amp;A for professional and enthusiast programmers"></a>
+
+<a href="https://www.linkedin.com/in/alex-hall-8532079a/"><img src="images/icons8-linkedin-50.png" width="24" alt="linkedin"/></a> <a href="mailto:alex.mojaki@gmail.com"><img src="images/icons8-gmail-50.png" width="24" alt="email"/></a> <a href="https://opencollective.com/futurecoder"><img src="images/open-collective.svg" width="24" alt="opencollective"/></a>
+
+*(Most logos from [icons8](https://icons8.com/), see full credits [here](https://github.com/alexmojaki/alexmojaki/tree/master/images))*
