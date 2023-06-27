@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api?username=alexmojaki&show_icons=True&theme=tokyonight"
+    <img src="https://github-readme-stats-six-nu-21.vercel.app/api?username=alexmojaki&show_icons=True&theme=tokyonight"
          alt="GitHub stats"/>
   </a>
 </p>
