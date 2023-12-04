@@ -9,12 +9,12 @@
 
 <img src="images/icons8-love-48.png" width="24" alt="love"/> <img src="images/icons8-python.svg" width="24" alt="python"/> I love Python, metaprogramming, and making programming easier.
 
-My main project is [**futurecoder**](https://futurecoder.io/), a platform for self-learning Python for beginners. It depends on a lot of my other work on GitHub, most of which is mentioned below. **I'm looking for contributors and partnerships.**
+My main project is [**futurecoder**](https://futurecoder.io/), a platform for self-learning Python for beginners. It depends on a lot of my other work on GitHub, most of which is mentioned below.
 
 I'm an expert at extracting obscure but useful information from Python:
 
 <details open>
-<summary><b>:bug: Debuggers:</b></summary>
+<summary><b>🐛 Debuggers:</b></summary>
   
 - [![1.4k stars](https://img.shields.io/github/stars/alexmojaki/birdseye?label=%E2%AD%90&style=plastic) `birdseye`](https://birdseye.readthedocs.io/en/latest/) is a unique and powerful debugger that lets you see the value of every individual expression:
 
@@ -39,7 +39,7 @@ I'm an expert at extracting obscure but useful information from Python:
 </details>
 
 <details>
-<summary><b>:warning: Tracebacks:</b></summary>
+<summary><b>⚠️ Tracebacks:</b></summary>
 
 - [`stack_data`](https://github.com/alexmojaki/stack_data) extracts data from stack frames and tracebacks, particularly to display more useful tracebacks than the default.
 - I used `stack_data` to [overhaul tracebacks in **IPython**](https://github.com/ipython/ipython/pull/11886), adding several fixes and enhancements. In particular `stack_data` uses [`executing`](https://github.com/alexmojaki/executing) (see Magic section) to highlight the precise operation which failed:
@@ -55,7 +55,7 @@ I'm an expert at extracting obscure but useful information from Python:
 </details>
 
 <details>
-<summary><b>:sparkles: Magic:</b></summary>
+<summary><b>✨ Magic:</b></summary>
 
 - [![68 stars](https://img.shields.io/github/stars/alexmojaki/executing?label=%E2%AD%90&style=plastic) `executing`](https://github.com/alexmojaki/executing) can find the exact operation being executed by a frame. This is the only library that allows doing this reliably as it is a very hard problem. Many others have tried and failed.
 - I used `executing` to overhaul [![2.3k stars](https://img.shields.io/github/stars/gruns/icecream?label=%E2%AD%90&style=plastic) `gruns/icecream`](https://github.com/gruns/icecream/pull/33) and [![81 stars](https://img.shields.io/github/stars/pwwang/python-varname?label=%E2%AD%90&style=plastic) `pwwang/python-varname`](https://github.com/pwwang/python-varname/issues/3#issuecomment-616206560), fixing several issues in the process. Both authors made me collaborators, and I've provided plenty of help since.
