@@ -16,7 +16,7 @@ I'm an expert at extracting obscure but useful information from Python:
 <details open>
 <summary><b>🐛 Debuggers:</b></summary>
   
-- [![1.4k stars](https://img.shields.io/github/stars/alexmojaki/birdseye?label=%E2%AD%90&style=plastic) `birdseye`](https://birdseye.readthedocs.io/en/latest/) is a unique and powerful debugger that lets you see the value of every individual expression:
+- [![1.7k stars](https://img.shields.io/github/stars/alexmojaki/birdseye?label=%E2%AD%90&style=plastic) `birdseye`](https://birdseye.readthedocs.io/en/latest/) is a unique and powerful debugger that lets you see the value of every individual expression:
 
   <img src="https://i.imgur.com/rtZEhHb.gif" height="96px" alt="birdseye demo 1"/>
 
@@ -24,13 +24,13 @@ I'm an expert at extracting obscure but useful information from Python:
 
   <sub>*(Click thumbnails to expand them)*</sub>
 
-- [![462 stars](https://img.shields.io/github/stars/alexmojaki/snoop?label=%E2%AD%90&style=plastic) `snoop`](https://github.com/alexmojaki/snoop) is a simple convenient debugger that logs everything a function is doing:
+- [![1.4k stars](https://img.shields.io/github/stars/alexmojaki/snoop?label=%E2%AD%90&style=plastic) `snoop`](https://github.com/alexmojaki/snoop) is a simple convenient debugger that logs everything a function is doing:
 
   <img src="https://i.imgur.com/Enu7k0h.png" width="96px" alt="snoop demo"/>
 
-  It's based on [![14.2k stars](https://img.shields.io/github/stars/cool-RR/PySnooper?label=%E2%AD%90&style=plastic) `cool-RR/PySnooper`](https://github.com/cool-RR/PySnooper) for which [I made many major contributions](https://github.com/cool-RR/PySnooper/pulls?q=author%3Aalexmojaki+is%3Amerged) and am a collaborator.
+  It's based on [![16.5k stars](https://img.shields.io/github/stars/cool-RR/PySnooper?label=%E2%AD%90&style=plastic) `cool-RR/PySnooper`](https://github.com/cool-RR/PySnooper) for which [I made many major contributions](https://github.com/cool-RR/PySnooper/pulls?q=author%3Aalexmojaki+is%3Amerged) and am a collaborator.
 
-- [![1.1k stars](https://img.shields.io/github/stars/alexmojaki/heartrate?label=%E2%AD%90&style=plastic) `heartrate`](https://github.com/alexmojaki/heartrate) visualises execution in real time:
+- [![1.8k stars](https://img.shields.io/github/stars/alexmojaki/heartrate?label=%E2%AD%90&style=plastic) `heartrate`](https://github.com/alexmojaki/heartrate) visualises execution in real time:
 
   <img src="https://media.giphy.com/media/H7wUw65MLvHLoX4sMW/giphy.gif" width="96px" alt="heartrate demo"/>
 
@@ -57,18 +57,18 @@ I'm an expert at extracting obscure but useful information from Python:
 <details>
 <summary><b>✨ Magic:</b></summary>
 
-- [![68 stars](https://img.shields.io/github/stars/alexmojaki/executing?label=%E2%AD%90&style=plastic) `executing`](https://github.com/alexmojaki/executing) can find the exact operation being executed by a frame. This is the only library that allows doing this reliably as it is a very hard problem. Many others have tried and failed.
-- I used `executing` to overhaul [![2.3k stars](https://img.shields.io/github/stars/gruns/icecream?label=%E2%AD%90&style=plastic) `gruns/icecream`](https://github.com/gruns/icecream/pull/33) and [![81 stars](https://img.shields.io/github/stars/pwwang/python-varname?label=%E2%AD%90&style=plastic) `pwwang/python-varname`](https://github.com/pwwang/python-varname/issues/3#issuecomment-616206560), fixing several issues in the process. Both authors made me collaborators, and I've provided plenty of help since.
-- [![285 stars](https://img.shields.io/github/stars/alexmojaki/sorcery?label=%E2%AD%90&style=plastic) `sorcery`](https://github.com/alexmojaki/sorcery) uses `executing` to provide several surprising magical functions.
+- [![358 stars](https://img.shields.io/github/stars/alexmojaki/executing?label=%E2%AD%90&style=plastic) `executing`](https://github.com/alexmojaki/executing) can find the exact operation being executed by a frame. This is the only library that allows doing this reliably as it is a very hard problem. Many others have tried and failed.
+- I used `executing` to overhaul [![9.8k stars](https://img.shields.io/github/stars/gruns/icecream?label=%E2%AD%90&style=plastic) `gruns/icecream`](https://github.com/gruns/icecream/pull/33) and [![336 stars](https://img.shields.io/github/stars/pwwang/python-varname?label=%E2%AD%90&style=plastic) `pwwang/python-varname`](https://github.com/pwwang/python-varname/issues/3#issuecomment-616206560), fixing several issues in the process. Both authors made me collaborators, and I've provided plenty of help since.
+- [![417 stars](https://img.shields.io/github/stars/alexmojaki/sorcery?label=%E2%AD%90&style=plastic) `sorcery`](https://github.com/alexmojaki/sorcery) uses `executing` to provide several surprising magical functions.
 
 </details>
 
 <details>
 <summary><b><img src="images/icons8-java-48.png" width="24" alt="java"/> <img src="images/icons8-amazon-web-services-50.png" width="24" alt="aws"/> <img src="images/Ruby_logo.svg" width="24" alt="ruby"/> <img src="images/icons8-kotlin-50.png" width="24" alt="kotlin"/> <img src="images/icons8-android-os-50.png" width="24" alt="android"/> Other: </b></summary>
 
-- I use [![86 stars](https://img.shields.io/github/stars/gristlabs/asttokens?label=%E2%AD%90&style=plastic) `gristlabs/asttokens`](https://github.com/gristlabs/asttokens) in *all* the projects mentioned above! I've made [many significant contributions](https://github.com/gristlabs/asttokens/pulls?q=is%3Amerged+author%3Aalexmojaki) to it.
-- [![104 stars](https://img.shields.io/github/stars/alexmojaki/instant_api?label=%E2%AD%90&style=plastic) `instant_api`](https://github.com/alexmojaki/instant_api) is more metaprogramming, but based on type hints. It lets you instantly create a Flask API with automatic type conversions, JSON RPC, and a Swagger UI. No other library makes this so convenient. Inspired by FastAPI.
-- [![149 stars](https://img.shields.io/github/stars/alexmojaki/s3-stream-upload?label=%E2%AD%90&style=plastic) `s3-stream-upload`](https://github.com/alexmojaki/s3-stream-upload) lets you efficiently stream large amounts of data to AWS S3 in Java.
+- I use [![183 stars](https://img.shields.io/github/stars/gristlabs/asttokens?label=%E2%AD%90&style=plastic) `gristlabs/asttokens`](https://github.com/gristlabs/asttokens) in *all* the projects mentioned above! I've made [many significant contributions](https://github.com/gristlabs/asttokens/pulls?q=is%3Amerged+author%3Aalexmojaki) to it.
+- [![132 stars](https://img.shields.io/github/stars/alexmojaki/instant_api?label=%E2%AD%90&style=plastic) `instant_api`](https://github.com/alexmojaki/instant_api) is more metaprogramming, but based on type hints. It lets you instantly create a Flask API with automatic type conversions, JSON RPC, and a Swagger UI. No other library makes this so convenient. Inspired by FastAPI.
+- [![211 stars](https://img.shields.io/github/stars/alexmojaki/s3-stream-upload?label=%E2%AD%90&style=plastic) `s3-stream-upload`](https://github.com/alexmojaki/s3-stream-upload) lets you efficiently stream large amounts of data to AWS S3 in Java.
 - [SunHours](http://sunhoursplugin.com/) is a SketchUp plugin written in Ruby used by architects around the world to analyse and visualise how much sunlight hits a surface. ([repo](https://github.com/alexmojaki/sunhours))
   
   <img src="https://sunhoursplugin.com/img/6.png" width="96px" alt="SunHours screenshot"/>
